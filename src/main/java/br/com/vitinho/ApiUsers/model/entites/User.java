@@ -1,7 +1,6 @@
 package br.com.vitinho.ApiUsers.model.entites;
 
-import jakarta.persistence.*;
-
+import javax.persistence.*;
 import java.io.Serializable;
 
 @Entity
