@@ -1,5 +1,6 @@
-package br.com.vitinho.ApiUsers.model;
+package br.com.vitinho.ApiUsers.model.repositories;
 
+import br.com.vitinho.ApiUsers.model.entites.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

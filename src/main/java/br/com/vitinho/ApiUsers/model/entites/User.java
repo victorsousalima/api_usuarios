@@ -1,4 +1,4 @@
-package br.com.vitinho.ApiUsers.model;
+package br.com.vitinho.ApiUsers.model.entites;
 
 import jakarta.persistence.*;
 
